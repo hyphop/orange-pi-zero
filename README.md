@@ -1,7 +1,7 @@
 # orange-pi-zero - World
 
 ![OrangePiZero Board](https://github.com/hyphop/orange-pi-zero-kernel/blob/master/img/orange_piz_zero_0.small.jpg)
-![OrangePiZero Board](../orange-pi-zero-kernel/master/img/orange_piz_zero_0.small.jpg)
+![OrangePiZero Board](/hyphop/orange-pi-zero-kernel/raw/master/img/orange_piz_zero_0.small.jpg)
 
 ## orange-pi-zero wiki
 
