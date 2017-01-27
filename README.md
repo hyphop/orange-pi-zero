@@ -1,8 +1,6 @@
-# orange-pi-zero - World
+# orangePi - Zero World
 
-![OrangePiZero Board](https://github.com/hyphop/orange-pi-zero-kernel/blob/master/img/orange_piz_zero_0.small.jpg)
-![OrangePiZero Board](/hyphop/orange-pi-zero-kernel/raw/master/img/orange_piz_zero_0.small.jpg)
-
+![OrangePiZero Board](https://github.com/hyphop/orange-pi-zero-kernel/raw/master/img/orange_piz_zero_0.small.jpg)![OrangePi ZeroWorld](img/ZeroWorld.logo.x10.png)
 ## orange-pi-zero wiki
 
 manuals and instructions
